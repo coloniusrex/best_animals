@@ -1,3 +1,5 @@
 Salmon
 Clownfish
 Trout
+Betta
+Catfish
